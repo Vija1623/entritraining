@@ -1,0 +1,29 @@
+*{
+.container{
+    margin: 0auto;
+    text-align: center;
+            }
+    
+    #search{
+    width:50%;
+    height:30px;
+    border:1px solid black;
+    color:black;
+            }
+    #searchBtn{
+    width:100px;
+    color:black;
+    font-size: medium;
+    margin:2%;
+            }
+    
+    #li{
+    background-color: yellowgreen;
+    color:black;
+    font-size: 24px;
+    border:1px solid black;
+    margin-top: 1%;
+    list-style-type: none;
+            }  
+        }      
+    
